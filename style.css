@@ -1,8 +1,37 @@
 body {
-    background-color: hotpink;
+    background-color: #f6c2d6;
+    text-align: center;
+    color: #764577;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #C0e6f8;
     text-align: center;
 }
 
 h1 {
-    color: blue;
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a:link {
+    color: #467c95
+}
+
+a:hover {
+    color: #764577
+}
+
+img {
+    width: 50%;
+    height: auto;
 }
